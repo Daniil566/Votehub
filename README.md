@@ -61,9 +61,9 @@ participant password: [testtest]
 
 ## Ссылки
 
-GitHub: `[URL]`
+GitHub: `[https://github.com/Daniil566/Votehub]`
 
-Деплой: `[URL]`
+Деплой: `[https://votehub-three.vercel.app/]`
 
 ## Организация кода
 
